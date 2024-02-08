@@ -2,7 +2,6 @@ It is a desktop application developed with .NET, utilizing SQL queries for datab
 Application Features:
 Splash screen
 Real-time data of coins
-
 Connection to an Access database using SQL queries
 Internet connection through Json.NET
 Creating a new user
